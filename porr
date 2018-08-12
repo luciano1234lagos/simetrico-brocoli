@@ -1,0 +1,3 @@
+alert(hola);
+confirm(hola);
+prompt(tu nombre);
